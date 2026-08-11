@@ -24,8 +24,8 @@ Saya sedang memperdalam kemampuan di bidang Cloud Computing dan Artificial Intel
 
 ## 🧠 Ringkasan Kemampuan yang Dipelajari
 
-- **Kecerdasan Buatan (AI):** Membangun dan mengorkestrasi arsitektur multi-agent menggunakan Agent Development Kit (ADK), serta mengembangkan aplikasi berbasis Gemini Enterprise dari nol — mencakup workflow orchestration antar-agent hingga deployment aplikasi AI tingkat lanjut.
-- **Data & Analitik:** Mengelola secure data sharing dan authorized views di BigQuery, menerapkan tata kelola data (data governance) pada Cloud Storage, serta memanfaatkan Google Sheets untuk analisis data — sebagai fondasi menuju spesialisasi Data Analytics dan Data Engineering.
+- **Kecerdasan Buatan (AI):** Membangun dan mengorkestrasi arsitektur multi-agent menggunakan Agent Development Kit (ADK), serta mengembangkan aplikasi berbasis Gemini Enterprise dari nol mencakup workflow orchestration antar-agent hingga deployment aplikasi AI tingkat lanjut.
+- **Data & Analitik:** Mengelola secure data sharing dan authorized views di BigQuery, menerapkan tata kelola data (data governance) pada Cloud Storage, serta memanfaatkan Google Sheets untuk analisis data sebagai fondasi menuju spesialisasi Data Analytics dan Data Engineering.
 - **Cloud Infrastructure:** Menjalankan sistem cloud delivery, low-code application development, serta berbagai tantangan praktis lintas layanan Google Cloud melalui rangkaian program Arcade.
 
 ## 🔗 Tautan
