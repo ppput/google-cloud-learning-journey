@@ -4,9 +4,7 @@ Repo ini adalah kumpulan catatan dan bukti pencapaian dari berbagai program pemb
 
 ## 👋 Tentang Saya
 
-Tuliskan sedikit tentang dirimu di sini — latar belakang, bidang yang sedang ditekuni, dan tujuan belajar kamu. Contoh:
-
-> Saya sedang memperdalam kemampuan di bidang Cloud Computing dan Artificial Intelligence melalui program pembelajaran mandiri di Google Cloud Skills Boost. Repo ini saya buat untuk mencatat progres sekaligus menunjukkan konsistensi belajar.
+Saya sedang memperdalam kemampuan di bidang Cloud Computing dan Artificial Intelligence melalui program pembelajaran mandiri di Google Cloud Skills Boost, dengan fokus khusus menuju jalur karier **Data Analyst**. Repo ini saya buat untuk mencatat progres sekaligus menunjukkan konsistensi belajar.
 
 ## 🏆 Daftar Pencapaian
 
@@ -23,34 +21,21 @@ Tuliskan sedikit tentang dirimu di sini — latar belakang, bidang yang sedang d
 | Arcade Adventure: Low-Code Development | App Development | Cloud | - | 30 Juli 2026 | [Lihat](https://www.skills.google/public_profiles/bd8ba5e6-36c9-4bb9-8548-7a16233d0839/badges/26089776) |
 | Arcade Base Camp — Juli 2026 | Umum (multi-topik) | Cloud | - | 26 Juli 2026 | [Lihat](https://www.skills.google/public_profiles/bd8ba5e6-36c9-4bb9-8548-7a16233d0839/badges/25954987) |
 | Arcade Voyage: Cloud Storage and Data Governance | Data Governance | Data & Cloud | - | 23 Juli 2026 | [Lihat](https://www.skills.google/public_profiles/bd8ba5e6-36c9-4bb9-8548-7a16233d0839/badges/25834951) |
-| Derive Insights from BigQuery Data | Data Analytics | Data & Analytics | Pemula | *(sedang dikerjakan)* | [Lihat](link-sertifikat-kamu) |
 
 ## 🧠 Ringkasan Kemampuan yang Dipelajari
 
-Kelompokkan skill yang sudah kamu pelajari berdasarkan tema, misalnya:
-
-- **Kecerdasan Buatan (AI):** ringkas apa yang dipelajari, misalnya membangun dan mengorkestrasi sistem multi-agent, atau mengembangkan aplikasi berbasis model bahasa.
-- **Data & Analitik:** ringkas topik yang dipelajari terkait pengolahan maupun penyimpanan data.
-- **Cloud Infrastructure:** ringkas topik seputar layanan cloud yang sudah dicoba.
-
-## 📌 Proyek Terkait (opsional)
-
-Jika ada modul yang menghasilkan kode nyata (bukan sekadar kuis atau simulasi), buat folder terpisah di dalam repo ini, misalnya:
-
-```
-/proyek-nama-modul
-  ├── README.md   (penjelasan singkat apa yang dikerjakan)
-  └── source-code (jika ada)
-```
+- **Kecerdasan Buatan (AI):** Membangun dan mengorkestrasi arsitektur multi-agent menggunakan Agent Development Kit (ADK), serta mengembangkan aplikasi berbasis Gemini Enterprise dari nol — mencakup workflow orchestration antar-agent hingga deployment aplikasi AI tingkat lanjut.
+- **Data & Analitik:** Mengelola secure data sharing dan authorized views di BigQuery, menerapkan tata kelola data (data governance) pada Cloud Storage, serta memanfaatkan Google Sheets untuk analisis data — sebagai fondasi menuju spesialisasi Data Analytics dan Data Engineering.
+- **Cloud Infrastructure:** Menjalankan sistem cloud delivery, low-code application development, serta berbagai tantangan praktis lintas layanan Google Cloud melalui rangkaian program Arcade.
 
 ## 🔗 Tautan
 
-- Profil sertifikat: (tempel link profil Credly/Google Skills kamu)
-- LinkedIn: (tempel link profil LinkedIn kamu)
+- Profil sertifikat: https://www.skills.google/public_profiles/bd8ba5e6-36c9-4bb9-8548-7a16233d0839
+- LinkedIn: https://www.linkedin.com/in/putri-putri-947842113/
 
 ## 📅 Update Terakhir
 
-Tulis tanggal terakhir kamu memperbarui repo ini supaya pembaca tahu progresnya masih aktif.
+11 Agustus 2026
 
 ---
 
