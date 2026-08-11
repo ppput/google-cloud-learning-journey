@@ -4,7 +4,7 @@ Repo ini adalah kumpulan catatan dan bukti pencapaian dari berbagai program pemb
 
 ## 👋 Tentang Saya
 
-Saya sedang memperdalam kemampuan di bidang Cloud Computing dan Artificial Intelligence melalui program pembelajaran mandiri di Google Cloud Skills Boost, dengan fokus khusus menuju jalur karier **Data Analyst** dan **Data Engineering**. Repo ini saya buat untuk mencatat progres sekaligus menunjukkan konsistensi belajar.
+Saya sedang memperdalam kemampuan di bidang Cloud Computing dan Artificial Intelligence melalui program pembelajaran mandiri di Google Cloud Skills Boost, dengan fokus khusus menuju jalur karier **Data Analyst**. Repo ini saya buat untuk mencatat progres sekaligus menunjukkan konsistensi belajar.
 
 ## 🏆 Daftar Pencapaian
 
